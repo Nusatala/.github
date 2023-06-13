@@ -3,7 +3,9 @@ See our prototype <a href="https://www.figma.com/proto/O9ASheCraA9sLiYyyVtHx4/Nu
 
 <br>
 
-https://github.com/Nusatala/.github/assets/70735803/25c4955c-01fc-4fad-aaad-4f9eaf745317
+
+https://github.com/Nusatala/.github/assets/70735803/f0dd8ac1-5fe5-4a23-ac68-440a31aad20b
+
 
 # Table of Content
 
@@ -13,8 +15,10 @@ https://github.com/Nusatala/.github/assets/70735803/25c4955c-01fc-4fad-aaad-4f9e
   - [Background](#background)
   - [Goal \& Aim](#goal--aim)
   - [Installation \& Deployment](#installation--deployment)
-    - [Project Installation to Personal Virtual Environment](#project-installation-to-personal-virtual-environment)
+    - [Machine Learning - Project Installation to Personal Virtual Environment](#machine-learning---project-installation-to-personal-virtual-environment)
     - [Deploy Machine Learning Model with CloudRun on Google Cloud Platform](#deploy-machine-learning-model-with-cloudrun-on-google-cloud-platform)
+    - [Mobile Development - Project Installation](#mobile-development---project-installation)
+    - [Cloud Computing - Project Installation](#cloud-computing---project-installation)
   - [How Nusatala Works](#how-nusatala-works)
   - [Plans \& Realization](#plans--realization)
   - [Project Scope](#how-nusatala-works)
@@ -47,7 +51,7 @@ Nusatala aims to enhance our knowledge of Indonesian traditional music instrumen
 This step will explains how to install and deploy briefly :
 
 
-### - Machine Learning - Project Installation to Personal Virtual Environment
+####  Machine Learning - Project Installation to Personal Virtual Environment
 1. Clone this repository
    ```bash
    git clone https://github.com/Nusatala/ML
@@ -61,11 +65,11 @@ This step will explains how to install and deploy briefly :
 4. ..
 5. Stop the application program or server by `ctrl + c`.
 
-### - Deploy Machine Learning Model with CloudRun on Google Cloud Platform
+#### Deploy Machine Learning Model with CloudRun on Google Cloud Platform
 
-### - Mobile Development - Project Installation
+#### Mobile Development - Project Installation
 
-### - Cloud Computing - Project Installation
+#### Cloud Computing - Project Installation
 Add files using the command line or push an existing Git repository with the following command:
 ```bash
 cd existing_repo
@@ -144,7 +148,7 @@ Tools/IDE/Library and resources that Nusatala use to build the app :
 
 
 ### C. Academic Papers
-- [1] Hastawan, A.F. et al. (2019) ‘Designing Educational Game of Indonesian Traditional Musical Instruments Based on Android Using Unity 3D’, 379(Veic), pp. 92–100. Available at: https://doi.org/10.2991/assehr.k.191217.016.
+- Hastawan, A.F. et al. (2019) ‘Designing Educational Game of Indonesian Traditional Musical Instruments Based on Android Using Unity 3D’, 379(Veic), pp. 92–100. Available at: https://doi.org/10.2991/assehr.k.191217.016.
   
 ### D. References
 
