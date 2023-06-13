@@ -54,12 +54,27 @@ This step will explains how to install and deploy briefly :
    ```
 2. Download the dataset <br>
   [Link dataset](https://drive.google.com/drive/folders/1zLFuIkJmukm16FtSIqsWWbHCP5JGhQkZ?usp=sharing)
-3. Install All the Requirements Inside "requirements.txt"
+3. Make a new virtual environment using Python
+   ```bash
+   python -m venv nusatala-experimental
+   ```
+4. Activate the virtual environment
+   ```bash
+   env\Scripts\activate
+   ```
+5. Install All the Requirements Inside "requirements.txt"
   ```bash
    pip install -r requirements.txt
    ```
-4. ..
-5. Stop the application program or server by `ctrl + c`.
+6. Go to folder Google-Cloud-Deploy to activate Flask web server
+   ```bash
+   cd Google-Cloud-Deploy
+   ```
+7. Run Flask
+   ```bash
+   flask run
+   ```
+8. Stop the application program or server by `ctrl + c`.
 
 ### - Deploy Machine Learning Model with CloudRun on Google Cloud Platform
 
