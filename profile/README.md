@@ -127,11 +127,12 @@ Tools/IDE/Library and resources that Nusatala use to build the app :
   - <a href="https://www.tensorflow.org/" title="Tensorflow" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 - Platform
-  - Google Colaboratory
+  - <a href="https://colab.research.google.com/" title="Google Colaboratory" target="_blank">
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
   - <a href="https://cloud.google.com/" title="Google Cloud Platform" target="_blank">
     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   - <a href="https://firebase.google.com/" title="Firebase" target="_blank">
-    <img src="hhttps://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
   - <a href="https://www.figma.com/" title="Figma" target="_blank">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   - <a href="https://flask.palletsprojects.com/en/2.3.x/" title="Flask" target="_blank">
