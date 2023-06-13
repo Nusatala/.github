@@ -63,7 +63,7 @@ This step will explains how to install and deploy briefly :
    env\Scripts\activate
    ```
 5. Install All the Requirements Inside "requirements.txt"
-  ```bash
+   ```bash
    pip install -r requirements.txt
    ```
 6. Go to folder Google-Cloud-Deploy to activate Flask web server
