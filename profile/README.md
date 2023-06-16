@@ -83,9 +83,15 @@ This step will explains how to install and deploy briefly :
    ```
 8. Stop the application program or server by `ctrl + c`.
 
-#### Deploy Machine Learning Model with CloudRun on Google Cloud Platform
 
 #### Mobile Development - Project Installation
+1. Clone Repository
+   ```bash
+   git clone https://github.com/Nusatala/MD.git
+   ```
+2. Open the project using androd studio
+3. Build project
+4. Run on emulator or real device
 
 #### Cloud Computing - Backend Project Installation
 ##### To start a project
@@ -192,7 +198,8 @@ Nusatala final presentation can be found here :
 [Link Presentation](https://docs.google.com/presentation/d/1VwOp9IozLLFlN2vL-JvaJXI-YMvSX0hHble0yMn0lbA/edit?usp=sharing)
 
 ## Demo Video
-[Link Presentation](https://bit.ly/Video-Nusatala)
+[Link Demo](bit.ly/Demo-Video-Nusatala)</br>
+[Link Youtube](https://bit.ly/Video-Nusatala)
 
 ## Developers
  <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning">Bangkit Academy led by Google, GoTo, and Traveloka 2023 Batch 1</a>
