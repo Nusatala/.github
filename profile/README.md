@@ -18,7 +18,7 @@ https://github.com/Nusatala/.github/assets/70735803/f0dd8ac1-5fe5-4a23-ac68-440a
     - [Machine Learning - Project Installation to Personal Virtual Environment](#machine-learning---project-installation-to-personal-virtual-environment)
     - [Deploy Machine Learning Model with CloudRun on Google Cloud Platform](#deploy-machine-learning-model-with-cloudrun-on-google-cloud-platform)
     - [Mobile Development - Project Installation](#mobile-development---project-installation)
-    - [Cloud Computing - Project Installation](#cloud-computing---project-installation)
+    - [Cloud Computing - Backend Project Installation](#cloud-computing---backend-project-installation)
   - [How Nusatala Works](#how-nusatala-works)
   - [Plans \& Realization](#plans--realization)
   - [Project Scope](#how-nusatala-works)
@@ -69,14 +69,29 @@ This step will explains how to install and deploy briefly :
 
 #### Mobile Development - Project Installation
 
-#### Cloud Computing - Project Installation
-Add files using the command line or push an existing Git repository with the following command:
-```bash
-cd existing_repo
-git remote add origin https://gitlab.com/z4ed.thalib123/nusatala-api-docs.git
-git branch -M main
-git push -uf origin main
-```
+#### Cloud Computing - Backend Project Installation
+##### To start a project
+1. Copy .env.example file and rename it to .env  
+2. Fill that env with it's value
+3. Install all dependencies, type:
+    ```
+    npm install
+    ```
+4. Create google cloud service account and add cloud storage admin role
+5. Generate json key file from that account
+6. Put the json key file to this project and rename it to "service-key.json"
+7. To run this project, type:
+    ```
+    npm start
+    ```
+8. Run a migration
+    ```
+    npx prisma migrate dev --name init
+    ```
+9. Run a seeder
+    ```
+    npx prisma db seed
+    ```
 
 ## How Nusatala Works
 1. Nusatala app gets user image input with png, jpg, and jpeg format of traditional music instrument such as angklung, bonang, etc.
