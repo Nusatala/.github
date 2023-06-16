@@ -127,10 +127,11 @@ To keep on track, Nusatala team has been used Gantt Chart with Agile method. Add
 Our dataset can be found here [Link dataset](https://drive.google.com/drive/folders/1zLFuIkJmukm16FtSIqsWWbHCP5JGhQkZ?usp=sharing).
 ### B. Resources
 Tools/IDE/Library and resources that Nusatala use to build the app :
-- IDE
+- Text Editor
   - <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  </a> &nbsp;
+  </a>
+- IDE
   - <a href="https://developer.android.com/studio?gclid=CjwKCAjwp6CkBhB_EiwAlQVyxRoFRkbXTQ0TrI0w-8LEwIttlMFbOnF-vTvc_e3dJFR55kiNIDo6nhoCMj8QAvD_BwE&gclsrc=aw.ds" title="Android Studio" target="_blank">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 - Library
@@ -141,12 +142,12 @@ Tools/IDE/Library and resources that Nusatala use to build the app :
   - Google Colaboratory
   - <a href="https://cloud.google.com/" title="Google Cloud Platform" target="_blank">
     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  - <a href="https://firebase.google.com/" title="Firebase" target="_blank">
-    <img src="hhttps://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
   - <a href="https://www.figma.com/" title="Figma" target="_blank">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   - <a href="https://flask.palletsprojects.com/en/2.3.x/" title="Flask" target="_blank">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  - <a href="https://nodejs.org/" title="Node JS" target="_blank">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 - API
   - Google APIs
 - Project Management
