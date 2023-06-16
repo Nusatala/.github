@@ -22,12 +22,10 @@ https://github.com/Nusatala/.github/assets/70735803/f0dd8ac1-5fe5-4a23-ac68-440a
   - [How Nusatala Works](#how-nusatala-works)
   - [Plans \& Realization](#plans--realization)
   - [Project Scope](#how-nusatala-works)
-  - [Repositories](#repositories)
   - [Bibliography](#bibliography)
     - [A. Dataset](#a-dataset)
     - [B. Resources](#b-resources)
     - [C. Academic Papers](#c-academic-papers)
-    - [D. References](#d-references)
   - [Presentation](#presentation)
   - [Demo Video](#demo-video)
   - [Developers](#developers)
@@ -47,6 +45,7 @@ Nusatala aims to enhance our knowledge of Indonesian traditional music instrumen
 
 ## Goal & Aim
 
+
 ## Installation & Deployment
 This step will explains how to install and deploy briefly :
 
@@ -62,8 +61,27 @@ This step will explains how to install and deploy briefly :
   ```bash
    pip install -r requirements.txt
    ```
-4. ..
-5. Stop the application program or server by `ctrl + c`.
+3. Make a new virtual environment using Python
+   ```bash
+   python -m venv nusatala-experimental
+   ```
+4. Activate the virtual environment
+   ```bash
+   env\Scripts\activate
+   ```
+5. Install All the Requirements Inside "requirements.txt"
+   ```bash
+   pip install -r requirements.txt
+   ```
+6. Go to folder Google-Cloud-Deploy to activate Flask web server
+   ```bash
+   cd Google-Cloud-Deploy
+   ```
+7. Run Flask
+   ```bash
+   flask run
+   ```
+8. Stop the application program or server by `ctrl + c`.
 
 #### Deploy Machine Learning Model with CloudRun on Google Cloud Platform
 
@@ -122,9 +140,6 @@ To keep on track, Nusatala team has been used Gantt Chart with Agile method. Add
 ![Trello](https://github.com/Nusatala/.github/assets/70735803/122b27e7-db75-4646-9d2d-d12dfb529287)
 
 
-## Repositories
-
-
 ## Bibliography
 
 ### A. Dataset
@@ -165,9 +180,8 @@ Tools/IDE/Library and resources that Nusatala use to build the app :
 
 ### C. Academic Papers
 - Hastawan, A.F. et al. (2019) ‘Designing Educational Game of Indonesian Traditional Musical Instruments Based on Android Using Unity 3D’, 379(Veic), pp. 92–100. Available at: https://doi.org/10.2991/assehr.k.191217.016.
-  
-### D. References
 
+  
 ## Presentation
 Nusatala final presentation can be found here :
 
@@ -178,6 +192,7 @@ Nusatala final presentation can be found here :
 [Link Presentation](https://docs.google.com/presentation/d/1VwOp9IozLLFlN2vL-JvaJXI-YMvSX0hHble0yMn0lbA/edit?usp=sharing)
 
 ## Demo Video
+[Link Presentation](https://bit.ly/Video-Nusatala)
 
 ## Developers
  <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning">Bangkit Academy led by Google, GoTo, and Traveloka 2023 Batch 1</a>
